@@ -1,0 +1,8 @@
+.env
+ve
+faiss_index
+*.pyc
+__pycache__
+*.pkl
+*.json
+*.jsonl

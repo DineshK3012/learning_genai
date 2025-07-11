@@ -1,0 +1,8 @@
+# Command to create virtual environment
+python -m venv [environment_name]
+
+# to activate virtual environment
+[environment_name]\Scripts\activate
+
+# To install multiple libraries in one go
+pip install -r requirements.txt
