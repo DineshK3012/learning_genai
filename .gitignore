@@ -1,6 +1,6 @@
 .env
 ve
-faiss_index
+# faiss_index
 *.pyc
 __pycache__
 *.pkl
